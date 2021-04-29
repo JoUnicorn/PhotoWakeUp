@@ -2,8 +2,9 @@
 
 Init:
 
-    ttt
-
+```python
+python3 -m venv .venv
+```
 
 1) person detection:
 
