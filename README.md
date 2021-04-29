@@ -11,3 +11,5 @@ https://detectron2.readthedocs.io/en/latest/tutorials/install.html
 detectron + dense crf
 
 3) 2D body pose
+
+To be tested
