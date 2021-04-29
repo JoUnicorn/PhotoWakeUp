@@ -1,5 +1,10 @@
 # PhotoWakeUp
 
+Init:
+
+    ttt
+
+
 1) person detection:
 
 we use the state of the art algorythm: detectron2
