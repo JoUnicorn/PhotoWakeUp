@@ -20,3 +20,11 @@ detectron + dense crf
 3) 2D body pose
 
 To be tested
+
+4) SMPL:
+
+```
+SMPL_LOCATION=/home/jo/python\ projects/PhotoWakeUp/SMPL_python_v.1.1.0/smpl
+export PYTHONPATH=$PYTHONPATH:$SMPL_LOCATION
+```
+
