@@ -25,6 +25,9 @@ To be tested
 
 ```
 SMPL_LOCATION=/home/jo/python\ projects/PhotoWakeUp/SMPL_python_v.1.1.0/smpl
+SMPL_LOCATION=/home/jo/python\ projects/PhotoWakeUp/smpl
 export PYTHONPATH=$PYTHONPATH:$SMPL_LOCATION
+
+ln -s /home/jo/python\ projects/PhotoWakeUp/smpl/models/basicmodel_m_lbs_10_207_0_v1.0.0.pkl code/models/
 ```
 
