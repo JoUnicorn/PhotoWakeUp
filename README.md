@@ -29,5 +29,6 @@ SMPL_LOCATION=/home/jo/python\ projects/PhotoWakeUp/smpl
 export PYTHONPATH=$PYTHONPATH:$SMPL_LOCATION
 
 ln -s /home/jo/python\ projects/PhotoWakeUp/smpl/models/basicmodel_m_lbs_10_207_0_v1.0.0.pkl code/models/
+ln -s /home/jo/python\ projects/PhotoWakeUp/smplify_public/lsp_dataset/images/*.jpg images/lsp/
 ```
 
